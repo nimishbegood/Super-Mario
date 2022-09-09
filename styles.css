@@ -1,0 +1,40 @@
+* {
+    background-color: #6EC7FC;
+}
+
+#mario {
+    width: 500px;
+    height: 500px;
+    display: grid;
+    grid-template: repeat(16, 1fr) / repeat(16, 1fr);
+    margin: auto;
+    gap: 0;
+}
+
+.red {
+    background-color: #E83F34;
+}
+
+.brown {
+    background-color: #60160F;
+}
+
+.skin {
+    background-color: #FAD78D;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.blue {
+    background-color: #0048F8
+}
+
+.button {
+    background-color: #FFF833;
+}
+
+.shoe {
+    background-color: #462300;
+}
